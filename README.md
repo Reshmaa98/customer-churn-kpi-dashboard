@@ -32,7 +32,7 @@ Key goals of the project include:
 
 - **Languages**: Python
 - **Libraries**: Pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly
-- **Dashboard Tools**: Streamlit / Dash (depending on implementation)
+- **Dashboard Tools**: Streamlit
 - **Other Tools**: Jupyter Notebook, Git, GitHub
 
 ---
